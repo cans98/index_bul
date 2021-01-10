@@ -1,0 +1,7 @@
+C:\Users\alibs\source\repos\index_bul\index_bul\bin\Debug\index_bul.exe.config
+C:\Users\alibs\source\repos\index_bul\index_bul\bin\Debug\index_bul.exe
+C:\Users\alibs\source\repos\index_bul\index_bul\bin\Debug\index_bul.pdb
+C:\Users\alibs\source\repos\index_bul\index_bul\obj\Debug\index_bul.csprojAssemblyReference.cache
+C:\Users\alibs\source\repos\index_bul\index_bul\obj\Debug\index_bul.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\index_bul\index_bul\obj\Debug\index_bul.exe
+C:\Users\alibs\source\repos\index_bul\index_bul\obj\Debug\index_bul.pdb
